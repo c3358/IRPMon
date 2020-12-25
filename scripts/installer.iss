@@ -6,7 +6,7 @@
 #define MyAppPublisher "Martin Dráb"
 #define MyAppURL "https://github.com/MartinDrab/IRPMon"
 #define MyAppUpdateURL "https://github.com/MartinDrab/IRPMon/releases"
-#define ConfigMode "Release"
+#define ConfigMode "Debug"
 
 [Setup]
 AppId={{F913732F-475C-46F8-84AA-80FE454CC7ED}
